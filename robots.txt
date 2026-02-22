@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bestaichatbotforecommerce.netlify.app/sitemap.xml
